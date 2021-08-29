@@ -120,13 +120,84 @@
 
  **Step 22:**
  
- ![image](https://user-images.githubusercontent.com/46291282/131236473-c5889b8c-16e4-43d0-a87e-f281368cb163.png)
+![image](https://user-images.githubusercontent.com/46291282/131236482-82b0d475-966b-4053-ad66-64d0778d62b4.png)
 
  
  **Step 25:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131236495-249c01b8-1621-4f7d-8722-9f3e0dd7852c.png)
+
 
  **Step 26:**   
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131236507-eca053db-fd17-4b2f-8d24-b2359305e344.png)
+
 
  **Step 27:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131236511-e3591b2e-dcfc-4802-b807-1a4936967054.png)
+
 
  **Step 28:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131236524-4bc5887d-e56b-4f58-8cba-ab21e438d466.png)
+
+
+**Step 29:**
+
+![image](https://user-images.githubusercontent.com/46291282/131236538-fd1a0479-dd7b-4be3-867e-a2505791c1b3.png)
+
+
+**Step 30:**
+
+![image](https://user-images.githubusercontent.com/46291282/131236541-7e06ff57-b2c1-413d-a525-5f1719ef67e2.png)
+
+
+**Step 31:**
+
+![image](https://user-images.githubusercontent.com/46291282/131236551-453167a1-103a-439b-81e4-34fc6bcc9dd9.png)
+
+
+**Step 32:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237007-60c9e642-a46d-4737-95a7-bea7a60ac396.png)
+
+
+**Step 33:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237016-fa0fd13c-2fdd-492c-b63d-5c398e6f1ebf.png)
+
+
+**Step 34:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237023-9614c1b9-5aed-4419-bf25-95467193fbea.png)
+
+
+**Step 35:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237031-0203550e-e640-4064-b531-cbf4587312ff.png)
+
+
+**Step 36:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237038-6471839f-1528-4dec-b81e-cb8fa4c0983e.png)
+
+
+**Step 37:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237045-afa8216c-bf94-4b64-97d5-2f7a03e93c67.png)
+
+
+**Step 38:**
+
+![image](https://user-images.githubusercontent.com/46291282/131237092-79cc88fd-7726-4441-a945-663b4cda2aee.png)
+
+**Step 38:**
+
+
+
+
+
+
+
+
