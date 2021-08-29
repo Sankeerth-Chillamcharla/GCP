@@ -4,12 +4,58 @@
 
 ## Case studies
 
-1. Create a custom VPC named 'intellipaat-gcp', create 2 subnets in each of any US region and any asia region. Create firewall, that VMs deployed in these 4 VMs are able to ping each other and VM-1 can able to connect with Public IP and reamining VMs(VM-2, VM-3, VM-4) should have private IP adress
+1. Create a custom VPC named 'intellipaat-gcp', create 2 subnets in each of any US region and any asia region. Create firewall, then create 4VMs VMs deployed in these these subnets are able to ping each other and VM-1 can able to connect with Public IP and reamining VMs(VM-2, VM-3, VM-4) should have private IP adress
 2. Create another VPC 'custom-gcp' with the above architecture and deployment in a separate project.
 3. VMs between these two VPCs should be able to ping each other
 
 # Solution 
 
  **Step 1:**  
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234361-657b318c-99ab-4430-b1c9-4d7c9b24ae71.png)
+ 
+ **Step 2:**  
+ ![image](https://user-images.githubusercontent.com/46291282/131234390-624ea755-3bee-4d62-b994-cd7bd6fda626.png)
+ 
+ **Step 3:**  
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234394-406c265b-13c2-4dd2-90ae-548bf7750af7.png)
+
+ **Step 4:**  
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234398-3b23547a-7353-4c7a-9de2-8e5cc016bbc2.png)
+ 
+ **Step 5:**  
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234403-ba85c108-c662-40ac-a54d-c23bf38c2ac0.png)
+
+ 
+ **Step 6:**  
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234419-0cf6e9ef-4e83-4920-a92c-630fe477eae4.png)
+
+ 
+ **Step 7:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234429-0743d909-1d93-4a20-896a-c4ad836b6fa0.png)
+
+  
+ **Step 8:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234434-a16d6d4b-d01c-4732-8459-baecbeae2ab1.png)
+ 
+ **Step 9:**
+ 
+ **Step 10:**
+ 
+ **Step 11:**
+ 
+ **Step 12:**
+ 
+ **Step 13:**
+ 
+ **Step 14:**
+   
+
 
 
