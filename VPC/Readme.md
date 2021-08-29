@@ -15,6 +15,7 @@
  ![image](https://user-images.githubusercontent.com/46291282/131234361-657b318c-99ab-4430-b1c9-4d7c9b24ae71.png)
  
  **Step 2:**  
+ 
  ![image](https://user-images.githubusercontent.com/46291282/131234390-624ea755-3bee-4d62-b994-cd7bd6fda626.png)
  
  **Step 3:**  
@@ -46,13 +47,28 @@
  
  **Step 9:**
  
+ ![image](https://user-images.githubusercontent.com/46291282/131234626-843065ca-3d66-4130-9a4a-b46a7a660020.png)
+
+ 
  **Step 10:**
+ 
+![image](https://user-images.githubusercontent.com/46291282/131234645-f21e9292-198e-43d9-82a1-8eb84daf4bc1.png)
+
  
  **Step 11:**
  
+ ![image](https://user-images.githubusercontent.com/46291282/131234648-8f24dd8b-a3ad-42db-9a1a-e1c90480a828.png)
+
+ 
  **Step 12:**
  
+ ![image](https://user-images.githubusercontent.com/46291282/131234650-e2134d61-8a1f-43e9-a928-e74a02691f95.png)
+
+ 
  **Step 13:**
+ 
+ ![image](https://user-images.githubusercontent.com/46291282/131234657-8a7eaf67-cde4-4d39-914e-2b440fa7fb13.png)
+
  
  **Step 14:**
    
