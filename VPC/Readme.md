@@ -4,8 +4,8 @@
 
 ## Case studies
 
-1. Create a custom VPC named 'intellipaat-gcp', create 2 subnets in each of any US region and any asia region. Create firewall, then create 4VMs VMs deployed in these these subnets are able to ping each other and VM-1 can able to connect with Public IP and reamining VMs(VM-2, VM-3, VM-4) should have private IP adress
-2. Create another VPC 'custom-gcp' with the above architecture and deployment in a separate project.
+1. Create a custom VPC named 'virtual-net-work-1', create 2 subnets in each of any US region and any asia region. Create firewall, then create 4VMs deployed in each subnets, VM-1 can able to connect with Public IP and reamining VMs(VM-2, VM-3, VM-4) should have internal IP adress. Creat **Cloud NAT** to allow the public internet in VM-2.
+2. Create another VPC named 'virtual-net-work-2' with the above architecture and deployment in a separate project.
 3. VMs between these two VPCs should be able to ping each other
 
 # Solution 
@@ -199,17 +199,100 @@
 
 **Step 39:**
 
+![image](https://user-images.githubusercontent.com/46291282/131271614-2a5d4131-e411-4232-8acf-e5f7b5a89a1b.png)
+
 
 **Step 40:**
 
-![Uploading image.png…]()
-
-
+![image](https://user-images.githubusercontent.com/46291282/131271621-d3a04ec9-4612-40f3-8cf0-c85142ad15c9.png)
 
 **Step 41:**
 
+![image](https://user-images.githubusercontent.com/46291282/131271744-be6d1375-771e-461d-b248-4ccea0be69da.png)
 
 **Step 42:**
+
+![image](https://user-images.githubusercontent.com/46291282/131271855-ffe8502f-7225-43d5-9597-08104e811cad.png)
+
+**Step 43:**
+
+![image](https://user-images.githubusercontent.com/46291282/131271876-afb23144-a01c-4f8e-afd8-7330342f4395.png)
+
+
+**Step 44:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272098-b193cc0a-5909-4a67-a32a-ce81fec3f941.png)
+
+
+**Step 45:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272130-60b74a84-6eb1-42e9-8750-6f1d09dc93a5.png)
+
+
+**Step 46:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272219-67ec1230-a95b-4d5b-a4b3-d591c7b3eb05.png)
+
+
+**Step 47:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272302-6301adcb-da8a-4693-aeb0-e4aa0bf82add.png)
+
+
+**Step 48:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272338-2ffb06de-4ae8-458c-aaaf-95c7f6a319be.png)
+
+
+**Step 49:**
+
+![image](https://user-images.githubusercontent.com/46291282/131272483-2ed47c61-325e-4373-900d-61414bd97376.png)
+
+
+**Step 50:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273337-d7610d52-bb94-4ecd-a4ff-cf453469cec2.png)
+
+
+
+**Step 51:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273810-d24ac3ae-4d77-4f89-a70b-1742ccb2eba4.png)
+
+
+**Step 52:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273819-f75cf5e7-582f-4d91-870d-ec7af669ff2a.png)
+
+
+
+**Step 53:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273595-58fa2511-399f-4977-a7e3-8e9b7effdf15.png)
+
+
+**Step 54:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273628-5a4ff1be-fa84-4e9f-a8d7-28fea46162ab.png)
+
+
+**Step 55:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273659-89447097-0f59-4648-8468-1db96d55a1c1.png)
+
+
+**Step 56:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273681-bd87ebdf-4353-43b8-b127-ba07cef865b8.png)
+
+
+**Step 57:**
+
+![image](https://user-images.githubusercontent.com/46291282/131273743-67ac5735-0ebb-432f-a572-6876b6ae5f83.png)
+
+
+
+
 
 
 
